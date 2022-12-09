@@ -1,4 +1,4 @@
-# Vulpes Link Cable Emulator
+# Arini Link Cable Emulator
 
 * [Supported Games List](/docs/games)
 
@@ -10,7 +10,8 @@ This project is currently a work in progress and no code or documents should be 
 
 ## Current Project Objectives
 
-Right now I'm attempting to create a tetris demo to prove that this works but after that the priority order is:
+I'm attempting to create a tetris demo to prove that this works but after that the priority order is:
+
 * Create adapter boards
 * Create basic web interface
 * Add a few more games such as Wave Race or Dr. Mario

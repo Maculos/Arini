@@ -1,0 +1,30 @@
+A 55 29
+
+<Music Data>
+
+A 39 50
+
+<Handicap Level>
+
+A 00 60
+
+A 55 29
+
+<Handicap Data>
+
+A 55 29
+
+<Tetrominos Data>
+
+A 56 30
+A 30 00
+
+<Height Data>
+
+A AA 09
+A FF 09
+
+A FF 02 (x65)
+
+A 34 02
+A 34 43
